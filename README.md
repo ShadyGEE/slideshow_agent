@@ -1,4 +1,4 @@
-# DeepSeek R1 Slideshow Generator
+# Slideshow Agent Generator
 
 An intelligent slideshow generator that creates professional HTML presentations using AI-powered content generation. Built with LangGraph, Groq's DeepSeek R1 model, and modern web technologies.
 
